@@ -44,4 +44,5 @@ Transformed freelance collaboration with a groundbreaking MERN stack-based platf
 ![screencapture-localhost-5173-gig-6489115eaf7d1edaef250e32-2023-12-16-22_08_05](https://github.com/nikhilarokkam/WorkHive-Empowering-Independent-Professionals/assets/115566678/30bdb6a5-de2a-4746-ba21-9405b6b3c3da)
 ### Real-time communication through chat functionality
 ![screencapture-localhost-5173-message-64890d39af7d1edaef250e1264893d6e50ad2c862fa29a6c-2023-12-16-22_10_20](https://github.com/nikhilarokkam/WorkHive-Empowering-Independent-Professionals/assets/115566678/11307ab8-a513-42a0-be2f-d129cc432ca0)
-### 
+### Orders Page
+![screencapture-localhost-5173-orders-2023-12-16-22_12_52](https://github.com/nikhilarokkam/WorkHive-Empowering-Independent-Professionals/assets/115566678/0a416c45-a87f-48d5-be08-0f61227336d9)
