@@ -1,0 +1,46 @@
+.slide {
+  display: flex;
+  justify-content: center;
+  padding: 100px 0;
+  background: radial-gradient(circle, white, #DFBB9D);
+
+  .container {
+    width: 1400px;
+    animation-name: slideAnimation;
+    animation-duration: 1s;
+    animation-timing-function: ease;
+
+    .carousel-slide {
+      transition: transform 0.5s;
+    }
+    
+    .enlarged-slide {
+      transform: scale(0.8);
+    }
+
+    .item {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      .slide-item {
+        transition: transform 0.3s ease-in-out;
+
+        &:hover {
+          transform: scale(1.2);
+        }
+      }
+    }
+  }
+
+  @keyframes slideAnimation {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
