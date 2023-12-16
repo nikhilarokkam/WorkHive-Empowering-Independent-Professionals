@@ -37,7 +37,7 @@ Transformed freelance collaboration with a groundbreaking MERN stack-based platf
 
 ## Screenshots
 ### Home Page
-![screencapture-localhost-3000-login-2023-12-03-08_28_37](https://github.com/nikhilarokkam/Automated-University-TimeTable-Management-System/assets/115566678/fef5b5f1-a3f7-432a-bb09-fc3ea575ab24)
+![screencapture-localhost-5173-2023-12-16-19_55_42](https://github.com/nikhilarokkam/WorkHive-Empowering-Independent-Professionals/assets/115566678/628ed0a1-90bd-4680-a2ec-dc97fe6bf1f4)
 ### Dashboard
 ![screencapture-localhost-3000-detailView-2023-12-03-08_30_48](https://github.com/nikhilarokkam/Automated-University-TimeTable-Management-System/assets/115566678/bb07833a-fe6d-429d-ab31-d57cc059f65e)
 ### Faculty Management
