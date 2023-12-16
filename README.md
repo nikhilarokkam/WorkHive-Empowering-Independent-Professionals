@@ -42,5 +42,6 @@ Transformed freelance collaboration with a groundbreaking MERN stack-based platf
 ![screencapture-localhost-5173-gigs-2023-12-16-22_06_01](https://github.com/nikhilarokkam/WorkHive-Empowering-Independent-Professionals/assets/115566678/f8e6bdbb-4b21-4abe-bbeb-bd2d173d5433)
 ### Single Gig Details and Reviews Page
 ![screencapture-localhost-5173-gig-6489115eaf7d1edaef250e32-2023-12-16-22_08_05](https://github.com/nikhilarokkam/WorkHive-Empowering-Independent-Professionals/assets/115566678/30bdb6a5-de2a-4746-ba21-9405b6b3c3da)
-### Generated Timetable for Room 3CSEB
-![screencapture-localhost-3000-createTable-2023-12-03-08_36_52](https://github.com/nikhilarokkam/Automated-University-TimeTable-Management-System/assets/115566678/b260cd52-351c-4faa-96f9-1aa1110e8758)
+### Real-time communication through chat functionality
+![screencapture-localhost-5173-message-64890d39af7d1edaef250e1264893d6e50ad2c862fa29a6c-2023-12-16-22_10_20](https://github.com/nikhilarokkam/WorkHive-Empowering-Independent-Professionals/assets/115566678/11307ab8-a513-42a0-be2f-d129cc432ca0)
+### 
