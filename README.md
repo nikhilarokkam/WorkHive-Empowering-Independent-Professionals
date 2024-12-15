@@ -11,7 +11,6 @@
 
 
 
-
 ### Project Description:
 Transformed freelance collaboration with a groundbreaking MERN stack-based platform. Streamlined workflows for users by optimizing project posting, real-time communication, and secure payment processing, elevating overall efficiency.
 
